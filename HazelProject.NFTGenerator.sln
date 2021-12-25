@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazelProject.NFTGenerator", "src\HazelProject.NFTGenerator.csproj", "{ED4C4D85-E42D-4879-A6C0-61F91ED11480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED4C4D85-E42D-4879-A6C0-61F91ED11480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4C4D85-E42D-4879-A6C0-61F91ED11480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4C4D85-E42D-4879-A6C0-61F91ED11480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4C4D85-E42D-4879-A6C0-61F91ED11480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79A438C4-0175-45B3-93E1-05D695ADFF30}
+	EndGlobalSection
+EndGlobal

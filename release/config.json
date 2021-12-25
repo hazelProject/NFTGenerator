@@ -1,0 +1,26 @@
+{
+
+  "BaseDirectory": "/Users/HazelProject/NFT/",
+  "NftsToCreate": 100,
+  "ImageFormat": ".png",
+  "ImageWidth": 3000,
+  "ImageHeight": 3000,
+  "NftName": "Hazel #",
+  "Description": "Example descripton for Hazel Project",
+
+  "Traits": [
+    {
+      "id": 1,
+      "name": "background",
+      "directory": "background",
+      "presenceChance": 100,
+      "rarityWeights": [ 10, 20, 1 ]
+    },
+    {
+      "id": 2,
+      "name": "body",
+      "directory": "body",
+      "presenceChance": 100
+    }
+  ]
+}
