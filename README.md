@@ -5,7 +5,7 @@
 This is a small dotnet console application for NFT assets generation. 
 The output of the program consists of both images and their metadata.
 The metadata is compliant with the OpenSea standard defined at https://docs.opensea.io/docs/metadata-standards.
-If you would like to read a more comprehensive article about NFTs generation, development, deployment and minting make sure to check out our's at https://medium.com/@HazelProject/so-you-want-to-make-an-nft-5b6d07838647
+If you would like to read a more comprehensive article about NFTs generation, development, deployment and minting make sure to check out ours at https://medium.com/@HazelProject/so-you-want-to-make-an-nft-5b6d07838647
 
 ## Getting started
 
